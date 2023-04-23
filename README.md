@@ -24,7 +24,7 @@ Cortland Walker</a></h1>
 <br/>
 <br/>
 
+<div align="center">
 
-
-
-
+![paperbag](THTpaperbag.png)
+</div>
