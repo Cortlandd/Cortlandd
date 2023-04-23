@@ -6,9 +6,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="#" target="blank">
 Cortland Walker</a></h1>
 
-<center>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&duration=4000&pause=500&center=true&multiline=true&width=435&height=100&lines=My+name+is+Cortland+Walker;I+like+to+Fish+and+Write+Code;That's+really+about+it..." alt="Typing SVG" /></a>
-</center>
+</p>
 
 <h2 align="center">🛠 Skills and Tools</h2>
 <p align="center">
@@ -23,21 +23,6 @@ Cortland Walker</a></h1>
 </p>
 <br/>
 <br/>
-
-<h2 hidden align="center">Published and Open Source Projects</h2>
-
-<div style="text-align: center;display: none">
-
-    |          Languages/Tools         |
-    |:--------------------------------:|
-    |            ❤️ Ruby/Rails         |
-    | JS/TypeScript/React/React Native |
-    |          Kotlin/Android          |
-    |             Swift/iOS            |
-    |         Python/Tensorflow        |
-    |             C#/Unity             |
-    |            Networking            |
-</div>
 
 
 
