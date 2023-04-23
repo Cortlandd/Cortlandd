@@ -3,12 +3,24 @@
 ![Cortland Walker](RegularLogoTest.png)
 </center>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="#" target="blank">
-Cortland Walker</a></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&duration=1000&pause=100&center=true&multiline=true&width=435&height=100&lines=My+name+is+Cortland+Walker;I+like+to+Fish+and+Write+Code;That's+really+about+it..." alt="Typing SVG" /></a>
+</p>
+
+<h2 align="center">Git</h2>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&duration=4000&pause=500&center=true&multiline=true&width=435&height=100&lines=My+name+is+Cortland+Walker;I+like+to+Fish+and+Write+Code;That's+really+about+it..." alt="Typing SVG" /></a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cortlandd&theme=zenburn">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cortlandd&theme=zenburn">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cortlandd&theme=zenburn">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cortlandd&theme=zenburn">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cortlandd&theme=zenburn&utcOffset=8">
+<br/>
+<br/>
+<a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cortlandd&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 </p>
+<br/>
+<br/>
 
 <h2 align="center">🛠 Skills and Tools</h2>
 <p align="center">
@@ -26,5 +38,5 @@ Cortland Walker</a></h1>
 
 <div align="center">
 
-![paperbag](THTpaperbag.png)
+![paperbag](THTbird.png)
 </div>
